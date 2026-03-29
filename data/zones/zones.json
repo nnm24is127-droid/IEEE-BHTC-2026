@@ -1,0 +1,36 @@
+{
+    "zones": [
+        {
+            "id": "Z-01",
+            "name": "Main Gate No-Parking",
+            "zone_type": "rectangle",
+            "polygon": [
+                [
+                    100,
+                    300
+                ],
+                [
+                    1100,
+                    300
+                ],
+                [
+                    1100,
+                    650
+                ],
+                [
+                    100,
+                    650
+                ]
+            ],
+            "threshold": 10.0,
+            "location": "Main Entrance Gate",
+            "department": "Campus Security",
+            "active": true,
+            "color": [
+                0,
+                255,
+                100
+            ]
+        }
+    ]
+}

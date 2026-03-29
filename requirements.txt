@@ -1,0 +1,12 @@
+# ParkMod - Python Dependencies
+streamlit>=1.32
+ultralytics>=8.0
+easyocr>=1.7
+opencv-python>=4.9
+Pillow>=10.0
+pandas>=2.0
+numpy>=1.24
+shapely>=2.0
+lapx>=0.5.5
+streamlit-drawable-canvas>=0.9.3
+streamlit-drawable-canvas>=0.9.3

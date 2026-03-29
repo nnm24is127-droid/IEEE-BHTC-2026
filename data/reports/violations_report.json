@@ -1,0 +1,33 @@
+{
+  "project": "ParkMod: AI-Based Intelligent Parking Enforcement System",
+  "version": "2.0.0",
+  "generated": "2026-03-25 20:29:25",
+  "location": "Unified Report Manager",
+  "total": 2,
+  "violations": [
+    {
+      "vehicle_id": 1,
+      "plate_number": "ER0NCR182",
+      "timestamp": "2026-03-25 20:28:00",
+      "duration_sec": 3.0,
+      "location": "Unified Report Manager",
+      "zone_id": "Z-01",
+      "zone_name": "Main Gate No-Parking",
+      "image_path": "C:\\Users\\Dell\\Desktop\\IEEE-BHTC\\data\\evidence\\violation_VH0001_20260325_202800_full.jpg",
+      "evidence_saved": true,
+      "status": "Violation"
+    },
+    {
+      "vehicle_id": 2,
+      "plate_number": "UNKNOWN",
+      "timestamp": "2026-03-25 20:29:25",
+      "duration_sec": 3.0,
+      "location": "Unified Report Manager",
+      "zone_id": "Z-01",
+      "zone_name": "Main Gate No-Parking",
+      "image_path": "C:\\Users\\Dell\\Desktop\\IEEE-BHTC\\data\\evidence\\violation_VH0002_20260325_202925_full.jpg",
+      "evidence_saved": true,
+      "status": "Violation"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+vehicle_id,plate_number,timestamp,duration_sec,location,zone_id,zone_name,image_path,evidence_saved,status
+1,ER0NCR182,2026-03-25 20:28:00,3.0,Unified Report Manager,Z-01,Main Gate No-Parking,C:\Users\Dell\Desktop\IEEE-BHTC\data\evidence\violation_VH0001_20260325_202800_full.jpg,True,Violation
+2,UNKNOWN,2026-03-25 20:29:25,3.0,Unified Report Manager,Z-01,Main Gate No-Parking,C:\Users\Dell\Desktop\IEEE-BHTC\data\evidence\violation_VH0002_20260325_202925_full.jpg,True,Violation
